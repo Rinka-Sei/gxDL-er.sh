@@ -4,7 +4,7 @@ This Bash script provides a robust and user-friendly way to batch-download Guita
 
 ---
 
-![screenshot](example.jpeg)
+![screenshot](example.jpg)
 
 ---
 
